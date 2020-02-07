@@ -4,7 +4,7 @@ This is a 35 minute long test which reviews an individuals data science skills. 
 expected to complete all questions within this time limit to give the reviewer a sense of their 
 time management, prioritization, and code quality when under pressure. 
 
-[Assignment](./Interview\ Notebook.ipynb)
+[Assignment](https://github.com/htpeter/a-35min-data-science-test/blob/master/Interview%20Notebook.ipynb)
 
 ## Setting Up The Test 
 
